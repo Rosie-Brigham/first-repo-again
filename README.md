@@ -1,2 +1,2 @@
 # first-repo-again
- My first repoistory
+ My first repository
